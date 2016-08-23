@@ -7,6 +7,7 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
     printf("Hello Git");
+    printf("Hello World");
 }
 
 MainWindow::~MainWindow()
